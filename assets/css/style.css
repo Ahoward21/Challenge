@@ -198,7 +198,7 @@ p {
 }
 /*Benefits Style Stop */ 
 
-/*Footer Style */
+/*Footer Style Start */
 
 .footer {
     padding: 30px;
@@ -210,3 +210,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* Footer Style Stop */
