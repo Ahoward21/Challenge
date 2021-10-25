@@ -42,10 +42,6 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
 /* Header Style End */
 
 /* Hero Style Start */
@@ -60,6 +56,11 @@ a {
 /* Hero Style Stop */
 
 /* Content Style Start */
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
 
 p {
     font-size: 16px;
